@@ -12,11 +12,6 @@ This repository contains my coursework, assignments, practice programs, projects
 * 🧠 Supervised & Unsupervised Learning
 * 🌳 Ensemble Learning & Model Optimization
 * ✨ Generative AI
-* 💬 Large Language Models (LLMs)
-* 📝 Prompt Engineering
-* 🔗 LangChain
-* 🤝 Agentic AI
-* ⚙️ MLOps
 * 🚀 AI/ML Projects & Capstone
 
 
